@@ -4,6 +4,10 @@
 
 **This project was the winner of the internal game contest at our university!**
 
+## Quick note
+
+Welcome to this project! It's worth mentioning that this was one of my initial larger-scale applications, and it was created under significant time pressure. The development process wasn't always conventional, but the experience was incredibly fun and rewarding. This repository is a snapshot of my skills and problem-solving abilities as of January 2023, and I'm proud of how it demonstrates my growth as a developer since that time.
+
 ##  Trailer
 
 Check out the game trailer to see it in action: [Eco-Adventure: The Factory Shutdown - Trailer](https://www.youtube.com/watch?v=your_trailer_link)
