@@ -45,8 +45,5 @@ This game was a collaborative effort. We would like to extend our thanks to the 
 
 ### Core Team
 
-*   **Artur Śpiewak** - [GitHub Profile](link_to_artur's_github) - *Role (e.g., Lead Programmer, Game Designer)*
-*   **Przemysław Szumczyk** - [GitHub Profile](link_to_przemyslaw's_github) - *Role (e.g., Level Designer, Programmer)*
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+*   **Artur Śpiewak** 
+*   **Przemysław Szumczyk**
