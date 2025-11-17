@@ -10,7 +10,7 @@ Welcome to this project! It's worth mentioning that this was one of my initial l
 
 ##  Trailer
 
-Check out the game trailer to see it in action: [Eco-Adventure: The Factory Shutdown - Trailer](https://www.youtube.com/watch?v=your_trailer_link)
+Check out the game trailer to see it in action: [Eco-Adventure: The Factory Shutdown - Trailer](https://drive.google.com/file/d/1pYOqyyEJKBjwbfXmBZ5M1s-oM4Z_LT3-/view?usp=drive_link)
 ## Introduction
 
 "Eco-Adventure: The Factory Shutdown" is a 2D platformer game developed with a focus on environmental themes. The game was created from the ground up by a two-person team, including all programming, level design, and asset integration. This project showcases our skills in game development using Unity and C#.
